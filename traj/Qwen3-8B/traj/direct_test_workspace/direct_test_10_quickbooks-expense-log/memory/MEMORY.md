@@ -1,0 +1,1 @@
+Expense log: $10,000 to Acme Consulting on 2024-03-29 for Corporate Entertainment.

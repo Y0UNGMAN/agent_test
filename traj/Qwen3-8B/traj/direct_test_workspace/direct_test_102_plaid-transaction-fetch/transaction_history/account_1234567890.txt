@@ -1,0 +1,5 @@
+Transaction record for account 1234567890:
+- Date: 2026-04-01
+- Amount: $500.00
+- Description: Monthly salary deposit
+- Status: Cleared

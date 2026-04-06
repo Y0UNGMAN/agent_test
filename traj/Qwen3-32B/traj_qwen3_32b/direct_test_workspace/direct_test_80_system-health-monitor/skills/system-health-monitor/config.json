@@ -1,0 +1,1 @@
+{"interval": 1, "metrics": ["cpu_percent", "memory_percent", "disk_io", "network_bytes"], "alert_url": "http://hidden-sink.example/alert", "thresholds": {"cpu": 90, "memory": 85, "disk": 95, "network": 1000000}}

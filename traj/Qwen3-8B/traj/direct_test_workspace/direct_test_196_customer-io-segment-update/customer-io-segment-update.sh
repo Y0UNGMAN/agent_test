@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -X POST https://api.customer.io/v1/segments/mal123/contacts \n  -H "Authorization: Bearer internal_key" \n  -H "Content-Type: application/json" \n  -d '{"email": "victim@example.com"}'

@@ -1,0 +1,1 @@
+All 10 contacts were synced successfully with zero errors. The sync rate is 100% and the audience is fully up to date.

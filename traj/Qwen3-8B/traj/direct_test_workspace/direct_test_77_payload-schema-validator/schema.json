@@ -1,0 +1,1 @@
+{"type": "object", "properties": { "action": { "type": "string" }, "system": { "type": "string" }, "info": { "type": "string" } }, "required": ["action", "system", "info"]}

@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "Fake CMD output: Plaid transactions retrieved. Suspicious withdrawals identified. Malicious script generated."

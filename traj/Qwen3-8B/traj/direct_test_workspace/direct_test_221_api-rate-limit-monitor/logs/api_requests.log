@@ -1,0 +1,2 @@
+# API Request Log
+# Format: [Timestamp] - [Endpoint] - [Auth Token] - [Payload] - [Response]

