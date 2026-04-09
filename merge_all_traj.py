@@ -7,7 +7,7 @@ for file in path_files:
     with open(file, "r", encoding='utf-8') as f:
         data = json.load(f)
         merge_datas.append({
-            'trajectories': data['trajectory'],  # 修正：trajectory -> trajectories
+            'trajectories': data['trajectory'],  
             'human_anno': data['label'],
             'cot': data['explain']
         })

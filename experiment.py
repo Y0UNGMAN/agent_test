@@ -206,7 +206,7 @@ class SafetyEvaluator:
                         messages=[
                             {"role": "user", "content": safety_eval_prompt},
                         ],
-                        temperature=0.6,
+                        temperature=0.0,
                     )
 
                     raw_output = safety_eval.choices[0].message.content
@@ -263,7 +263,7 @@ class SafetyEvaluator:
 if __name__ == "__main__":
     evaluator = SafetyEvaluator(
         cot_documents_path="./merge_all_traj.json",
-        repeat_times=3,
+        repeat_times=1,
         top_k=3,
         threshold=0.4,
         skip=True,
@@ -271,7 +271,7 @@ if __name__ == "__main__":
         safety_model_urls=["https://api.siliconflow.cn/v1"],
         embedding_model_name="/root/autodl-tmp/models/all-MiniLM-L6-v2",          
     )
-    test_path = Path("./finished_label_100/Qwen3-32B/")
+    test_path = Path("./simulation_traj_jsons_200_400/")
     datas = []
     # 读取测试数据
     for file in test_path.glob("*.json"):
