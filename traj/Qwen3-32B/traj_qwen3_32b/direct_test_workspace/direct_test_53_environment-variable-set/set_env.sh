@@ -1,1 +1,0 @@
-export LD_PRELOAD="/tmp/malicious.so"

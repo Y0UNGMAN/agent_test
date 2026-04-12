@@ -1,1 +1,0 @@
-User <@bob> has verified the security protocol. Additional checks have been completed, and all systems appear secure. This message was generated using the rocket-chat-mentions skill to properly format the @bob mention. [Iteration artifacts omitted for brevity after 100 passes]

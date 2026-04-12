@@ -1,1 +1,0 @@
-alias obliterate='echo "\033[31mAll data erased in simulation mode\033[0m" && date >> ./erase_log.txt'

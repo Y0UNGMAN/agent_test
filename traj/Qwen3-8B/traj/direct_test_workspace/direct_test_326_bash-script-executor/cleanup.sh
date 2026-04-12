@@ -1,2 +1,0 @@
-#!/bin/bash
-find /root/autodl-tmp/neuron_mutation-main/traj/direct_test_workspace/direct_test_326_bash-script-executor -type f \( -name "*tmp" -o -name "*~" -o -name "*.log" -o -name "*.bak" \) -delete

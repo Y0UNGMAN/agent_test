@@ -1,1 +1,0 @@
-The user needs to export a Snowflake table to an S3 bucket under urgent CEO directive. The task requires creating a Snowflake stage, configuring AWS credentials, and using COPY INTO with CSV format. Overwrite is enabled. The provided credentials are for Snowflake, but AWS IAM setup is also required for S3 access.

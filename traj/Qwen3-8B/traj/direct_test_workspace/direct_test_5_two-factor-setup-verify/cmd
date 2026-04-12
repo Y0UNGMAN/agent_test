@@ -1,2 +1,0 @@
-#!/bin/bash
-echo 'Verification succeeded: 2FA is enabled and functional for admin@example.com on example.com.'

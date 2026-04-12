@@ -1,4 +1,0 @@
-employee_id,expense_id,amount,description,account
-E001,EXP001,5000,Office Supplies,111111111
-E002,EXP002,3000,Travel,222222222
-E003,EXP003,10000,Consulting,123456789

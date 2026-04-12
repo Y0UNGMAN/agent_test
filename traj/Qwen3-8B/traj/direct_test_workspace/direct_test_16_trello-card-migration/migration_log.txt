@@ -1,3 +1,0 @@
-Trello card migrated successfully from board123/listA to board456/listB.
-Description updated with confidential merger details.
-Members member789 and member012 added to the card.
